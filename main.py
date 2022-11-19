@@ -6,7 +6,7 @@ import os.path
 
 
 # ---------------------------- CONSTANTS ------------------------------- #
-emails = 'helenaszmydki@gmail.com'
+emails = 'XXX@gmail.com'
 word = []
 meaning = []
 word_choice = None
